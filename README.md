@@ -1,2 +1,2 @@
-# delicaryinvaders
+# deliveryinvaders
 Street delivery invaders
